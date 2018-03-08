@@ -9,7 +9,7 @@ Goal:
 
 Step1. 
 
-    python bestRMSE_function.py month c_step 
+    python bestRMSE_function.py month c_step    
     
     return the best RMSE and 'c' and 'gamma'
 
